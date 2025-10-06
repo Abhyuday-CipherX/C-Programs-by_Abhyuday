@@ -1,3 +1,4 @@
+// Program that calculate the simple interest and compound interest. The principal amount, rate of interest and time are entered through the keyboard.
 #include <stdio.h>
 #include <math.h>  // Required for pow() function
 
@@ -18,4 +19,5 @@ int main() {
     printf("Compound Interest = %.2lf\n", compound_interest);
 
     return 0;
+
 }
