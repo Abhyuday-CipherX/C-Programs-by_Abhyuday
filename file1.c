@@ -1,4 +1,4 @@
-//Prpogram 1-Step 3
+//Program that accepts the marks of 5 subjects and finds the sum and percentage marks obtained by the student
 #include<stdio.h>
 int main()
 {
@@ -19,4 +19,5 @@ int main()
     printf("The sum of marks of student= %d \n",sum_of_marks);
     printf("The percentage obtained by the student= %.2lf ",percentage);
     return 0;
+
 }
